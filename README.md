@@ -143,7 +143,7 @@ A cross-platform app shipped to web and native mobile from one codebase — Vite
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/assets/the-orbit.svg" width="560" />
+<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/the-orbit.svg" width="560" />
 
 <sub><i>Built from real repo data using GitHub's own design language — the 4 focus areas map onto the contribution-graph's green scale, the trail traces where my focus is actually heading.</i></sub>
 
