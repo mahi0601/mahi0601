@@ -33,8 +33,6 @@
 
 Software engineer with **4+ years** building full-stack products: React/Next.js frontends and Python/Node.js services, deployed on **AWS** and **GCP** at **Tricon Infotech**. Lately exploring applied AI: RAG pipelines and agentic systems built to behave predictably in production.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:14B8A6,100:0B1220&height=3&section=header" width="100%" alt="" />
-
 ## Tech Stack
 
 <table>
@@ -65,7 +63,7 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:38BDF8,100:0B1220&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:14B8A6,100:0B1220&height=3&section=header" width="100%" alt="" />
 
 ## Experience
 
@@ -111,17 +109,23 @@ One codebase shipped to web and native mobile: Vite + Tailwind frontend wrapped 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:14B8A6,100:0B1220&height=3&section=header" width="100%" alt="" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/motive-architecture.svg" width="720" alt="Motive architecture: one Vite and Tailwind codebase ships as a web app on Vercel and, wrapped with Capacitor, as iOS and Android apps. Both talk to a Dockerized Node.js API on Render." />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:38BDF8,100:0B1220&height=3&section=header" width="100%" alt="" />
 
 ## The Orbit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/the-orbit.svg" width="560" alt="The Orbit: a visualization of my four focus areas built from real repo data" />
+<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/the-orbit.svg" width="720" alt="The Orbit: four orbits around a core for Frontend, Backend, Cloud and Applied AI, with Applied AI the outermost and still growing" />
 
 <br>
 
-<sub><i>Built from real repo data in GitHub's own design language: the four focus areas map onto the contribution graph's green scale, and the trail traces where my focus is heading.</i></sub>
+<sub><i>Where I work today, and where I'm growing: the dashed outer orbit is applied AI.</i></sub>
 
 <br><br>
 
@@ -130,10 +134,6 @@ One codebase shipped to web and native mobile: Vite + Tailwind frontend wrapped 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahi0601/mahi0601/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/mahi0601/mahi0601/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi0601&layout=compact&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=CBD5E1&icon_color=38BDF8" alt="Most used languages on GitHub" />
 
 </div>
 
