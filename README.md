@@ -156,7 +156,7 @@ Copy one <td> above, set the label to APPLIED AI · <TOPIC>, and describe what i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/motive-architecture.svg" width="720" alt="Motive architecture: one Vite and Tailwind codebase ships as a web app on Vercel and, wrapped with Capacitor, as iOS and Android apps. Both talk to a Dockerized Node.js API on Render." />
+<!-- <img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/motive-architecture.svg" width="720" alt="Motive architecture: one Vite and Tailwind codebase ships as a web app on Vercel and, wrapped with Capacitor, as iOS and Android apps. Both talk to a Dockerized Node.js API on Render." /> -->
 
 </div>
 
