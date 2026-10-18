@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D4C,100:0B1220&height=200&section=header&text=Bipasha%20Bhattacharjee&fontSize=42&fontColor=2DD4BF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Tricon%20Infotech&descAlignY=62&descSize=15&descColor=CBD5E1" width="100%" alt="Bipasha Bhattacharjee, Software Engineer at Tricon Infotech" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Reliable+software+people+enjoy+using;Frontend+craft+%C3%97+backend+rigor;Exploring+LLMs%2C+agents+%26+RAG" alt="Reliable software people enjoy using. Frontend craft and backend rigor. Exploring LLMs, agents and RAG." />
-
-<br>
-
-<sub>4+ years &nbsp;·&nbsp; Full-stack &amp; applied AI &nbsp;·&nbsp; AWS · GCP &nbsp;·&nbsp; Bangalore, India</sub>
+<img src="assets/header.svg" width="100%" alt="Bipasha Bhattacharjee, Software Engineer at Tricon Infotech. Reliable software people enjoy using. Frontend craft and backend rigor. Exploring LLMs, agents and RAG." />
 
 <br><br>
 
@@ -21,13 +15,23 @@
 <a href="#tech-stack">STACK</a> &nbsp;·&nbsp;
 <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
 <a href="#featured-projects">PROJECTS</a> &nbsp;·&nbsp;
-<a href="#the-orbit">THE ORBIT</a> &nbsp;·&nbsp;
+<a href="#from-screen-to-model">FLOW</a> &nbsp;·&nbsp;
 <a href="#connect">CONNECT</a>
 </sub>
 
 </div>
 
 <br>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><sub><b>WORKING AT</b></sub><br>Tricon Infotech, Bangalore</td>
+<td width="33%" valign="top"><sub><b>EXPLORING</b></sub><br>RAG pipelines and agentic systems</td>
+<td width="33%" valign="top"><sub><b>OPEN TO</b></sub><br>Engineering, product and applied AI conversations</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## About
 
@@ -38,32 +42,52 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 <table>
 <tr>
 <td width="140"><sub><b>FRONTEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite&theme=dark" height="40" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite" /></td>
+<td>
+<img src="https://img.shields.io/badge/React-0F3D4C?style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0F3D4C?style=flat-square" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-0F3D4C?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0F3D4C?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F3D4C?style=flat-square" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-0F3D4C?style=flat-square" alt="Vite" />
+</td>
 </tr>
 <tr>
 <td><sub><b>BACKEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" height="40" alt="Python, FastAPI, Node.js, Express" /></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0F3D4C?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-0F3D4C?style=flat-square" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-0F3D4C?style=flat-square" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0F3D4C?style=flat-square" alt="Express" />
+</td>
 </tr>
 <tr>
 <td><sub><b>DATA</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" height="40" alt="PostgreSQL, MongoDB" /></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-0F3D4C?style=flat-square" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-0F3D4C?style=flat-square" alt="MongoDB" />
+</td>
 </tr>
 <tr>
 <td><sub><b>CLOUD &amp; DEVOPS</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark" height="40" alt="AWS, Google Cloud, Docker, Git" /></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-0F3D4C?style=flat-square" alt="AWS" />
+<img src="https://img.shields.io/badge/Google%20Cloud-0F3D4C?style=flat-square" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-0F3D4C?style=flat-square" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-0F3D4C?style=flat-square" alt="Git" />
+</td>
 </tr>
 <tr>
 <td><sub><b>APPLIED AI</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/LangChain-0F2A43?style=flat-square" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-0F2A43?style=flat-square" alt="LangGraph" />
-<img src="https://img.shields.io/badge/RAG-0F2A43?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/OpenAI_API-0F2A43?style=flat-square&logo=openai&logoColor=2DD4BF" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/LangChain-0C4A6E?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-0C4A6E?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-0C4A6E?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/OpenAI%20API-0C4A6E?style=flat-square" alt="OpenAI API" />
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:14B8A6,100:0B1220&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Experience
 
@@ -71,6 +95,13 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 <sub>Bangalore, India &nbsp;·&nbsp; Present</sub>
 
 Owning full-stack product surfaces end-to-end: React/Next.js frontends, Python/Node.js services, and the AWS/GCP infrastructure they run on.
+
+<!--
+TODO before publishing (replace the start year above and add real, measurable results):
+- Shipped <what> that moved <metric> by <number>
+- Improved <reliability or quality metric> from <x> to <y>
+- Led or mentored <team / migration / review process>
+-->
 
 ## Featured Projects
 
@@ -103,10 +134,14 @@ One codebase shipped to web and native mobile: Vite + Tailwind frontend wrapped 
 
 <br><br>
 
-<a href="https://motive-theta.vercel.app"><img src="https://img.shields.io/badge/Live-0F3D4C?style=for-the-badge&logoColor=2DD4BF" alt="Motive live demo" /></a>&nbsp;<a href="https://github.com/mahi0601/Motive"><img src="https://img.shields.io/badge/Frontend-0F3D4C?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Motive frontend source" /></a>&nbsp;<a href="https://github.com/mahi0601/motive-backend"><img src="https://img.shields.io/badge/Backend-0F3D4C?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Motive backend source" /></a>
+<a href="https://motive-theta.vercel.app"><img src="https://img.shields.io/badge/Live-F59E0B?style=for-the-badge&logoColor=0B1220" alt="Motive live demo" /></a>&nbsp;<a href="https://github.com/mahi0601/Motive"><img src="https://img.shields.io/badge/Frontend-0F3D4C?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Motive frontend source" /></a>&nbsp;<a href="https://github.com/mahi0601/motive-backend"><img src="https://img.shields.io/badge/Backend-0F3D4C?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Motive backend source" /></a>
 
 </td>
 </tr>
+<!--
+TODO: a third card for an applied AI project (RAG or agent) once there is a repo to link.
+Copy one <td> above, set the label to APPLIED AI · <TOPIC>, and describe what it retrieves or decides and how you check it.
+-->
 </table>
 
 <div align="center">
@@ -115,17 +150,21 @@ One codebase shipped to web and native mobile: Vite + Tailwind frontend wrapped 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:38BDF8,100:0B1220&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## The Orbit
+## From screen to model
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahi0601/mahi0601/main/the-orbit.svg" width="720" alt="The Orbit: four orbits around a core for Frontend, Backend, Cloud and Applied AI, with Applied AI the outermost and still growing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/flow-light.svg" />
+  <img src="assets/flow-light.svg" width="100%" alt="A request travels from Frontend to Backend to Data to Cloud to Applied AI, the layer still growing." />
+</picture>
 
 <br>
 
-<sub><i>Where I work today, and where I'm growing: the dashed outer orbit is applied AI.</i></sub>
+<sub><i>One request, layer by layer. The dashed outline is applied AI, the layer still growing.</i></sub>
 
 <br><br>
 
@@ -137,7 +176,7 @@ One codebase shipped to web and native mobile: Vite + Tailwind frontend wrapped 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,50:14B8A6,100:0B1220&height=3&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Connect
 
