@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Bipasha Bhattacharjee, Software Engineer at Tricon Infotech. Reliable software people enjoy using. Frontend craft and backend rigor. Exploring LLMs, agents and RAG." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D4C,100:0B1220&height=200&section=header&text=Bipasha%20Bhattacharjee&fontSize=42&fontColor=2DD4BF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Tricon%20Infotech&descAlignY=62&descSize=15&descColor=CBD5E1" width="100%" alt="Bipasha Bhattacharjee, Software Engineer at Tricon Infotech" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Reliable+software+people+enjoy+using;Frontend+craft+%C3%97+backend+rigor;Exploring+LLMs%2C+agents+%26+RAG" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3200&pause=1200&color=0369A1&center=true&vCenter=true&width=640&lines=Reliable+software+people+enjoy+using;Frontend+craft+%C3%97+backend+rigor;Exploring+LLMs%2C+agents+%26+RAG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3200&pause=1200&color=0369A1&center=true&vCenter=true&width=640&lines=Reliable+software+people+enjoy+using;Frontend+craft+%C3%97+backend+rigor;Exploring+LLMs%2C+agents+%26+RAG" alt="Reliable software people enjoy using. Frontend craft and backend rigor. Exploring LLMs, agents and RAG." />
+</picture>
+
+<br>
+
+<sub>4+ years &nbsp;·&nbsp; Full-stack &amp; applied AI &nbsp;·&nbsp; AWS · GCP &nbsp;·&nbsp; Bangalore, India</sub>
 
 <br><br>
 
@@ -31,7 +41,7 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:38BDF8&height=2&section=header" width="100%" alt="" />
 
 ## About
 
@@ -87,7 +97,7 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:38BDF8&height=2&section=header" width="100%" alt="" />
 
 ## Experience
 
@@ -97,7 +107,7 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 Owning full-stack product surfaces end-to-end: React/Next.js frontends, Python/Node.js services, and the AWS/GCP infrastructure they run on.
 
 <!--
-TODO before publishing (replace the start year above and add real, measurable results):
+TODO before publishing: add the start year above and real, measurable results, for example:
 - Shipped <what> that moved <metric> by <number>
 - Improved <reliability or quality metric> from <x> to <y>
 - Led or mentored <team / migration / review process>
@@ -150,21 +160,27 @@ Copy one <td> above, set the label to APPLIED AI · <TOPIC>, and describe what i
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:38BDF8&height=2&section=header" width="100%" alt="" />
 
 ## From screen to model
 
+<table width="100%">
+<tr>
+<td align="center" width="19%" valign="top"><sub><b>INTERFACE</b></sub><br><b>Frontend</b><br><sub>What people see and tap</sub></td>
+<td align="center" width="2%">→</td>
+<td align="center" width="19%" valign="top"><sub><b>SERVICES</b></sub><br><b>Backend</b><br><sub>Logic and APIs</sub></td>
+<td align="center" width="2%">→</td>
+<td align="center" width="19%" valign="top"><sub><b>STORAGE</b></sub><br><b>Data</b><br><sub>Where it is kept</sub></td>
+<td align="center" width="2%">→</td>
+<td align="center" width="19%" valign="top"><sub><b>PLATFORM</b></sub><br><b>Cloud</b><br><sub>Where it runs</sub></td>
+<td align="center" width="2%">→</td>
+<td align="center" width="19%" valign="top"><sub><b>INTELLIGENCE</b></sub><br><b>Applied AI</b><br><sub>Retrieval and agents. Still growing.</sub></td>
+</tr>
+</table>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/flow-light.svg" />
-  <img src="assets/flow-light.svg" width="100%" alt="A request travels from Frontend to Backend to Data to Cloud to Applied AI, the layer still growing." />
-</picture>
-
-<br>
-
-<sub><i>One request, layer by layer. The dashed outline is applied AI, the layer still growing.</i></sub>
+<sub><i>One request, layer by layer. Applied AI is the newest layer.</i></sub>
 
 <br><br>
 
@@ -176,7 +192,7 @@ Copy one <td> above, set the label to APPLIED AI · <TOPIC>, and describe what i
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:38BDF8&height=2&section=header" width="100%" alt="" />
 
 ## Connect
 
