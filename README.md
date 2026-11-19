@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D4C,100:0B1220&height=200&section=header&text=Bipasha%20Bhattacharjee&fontSize=42&fontColor=2DD4BF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Tricon%20Infotech&descAlignY=62&descSize=15&descColor=CBD5E1" width="100%" alt="Bipasha Bhattacharjee, Software Engineer at Tricon Infotech" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D4C,100:0B1220&height=200&section=header&text=Bipasha%20Bhattacharjee&fontSize=42&fontColor=2DD4BF&fontAlignY=40&animation=fadeIn&desc=Backend%20%26%20AI%20Engineer%20%C2%B7%20Bangalore&descAlignY=62&descSize=15&descColor=CBD5E1" width="100%" alt="Bipasha Bhattacharjee, Backend and AI Engineer in Bangalore" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Reliable+software+people+enjoy+using;Frontend+craft+%C3%97+backend+rigor;Exploring+LLMs%2C+agents+%26+RAG" />
@@ -14,7 +14,8 @@
 
 <br><br>
 
-<a href="https://bipashadev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=0B1220" alt="Portfolio" /></a>&nbsp;
+<a href="https://bipasha.dev"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=0B1220" alt="Portfolio" /></a>&nbsp;
+<a href="https://bipasha.dev/hire"><img src="https://img.shields.io/badge/60--second%20brief-0F3D4C?style=for-the-badge&logoColor=2DD4BF" alt="60-second brief for recruiters" /></a>&nbsp;
 <a href="https://linkedin.com/in/bipashabhatt"><img src="https://img.shields.io/badge/LinkedIn-0F3D4C?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/mahi0601"><img src="https://img.shields.io/badge/GitHub-0F3D4C?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
 
@@ -35,9 +36,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><sub><b>WORKING AT</b></sub><br>Tricon Infotech, Bangalore</td>
+<td width="33%" valign="top"><sub><b>BASED IN</b></sub><br>Bangalore, India</td>
 <td width="33%" valign="top"><sub><b>EXPLORING</b></sub><br>RAG pipelines and agentic systems</td>
-<td width="33%" valign="top"><sub><b>OPEN TO</b></sub><br>Engineering, product and applied AI conversations</td>
+<td width="33%" valign="top"><sub><b>OPEN TO</b></sub><br>Senior backend / AI engineering roles</td>
 </tr>
 </table>
 
@@ -45,7 +46,7 @@
 
 ## About
 
-Software engineer with **4+ years** building full-stack products: React/Next.js frontends and Python/Node.js services, deployed on **AWS** and **GCP** at **Tricon Infotech**. Lately exploring applied AI: RAG pipelines and agentic systems built to behave predictably in production.
+Software engineer with **4+ years** building full-stack products: React/Next.js frontends and Python/Node.js services, deployed on **AWS** and **GCP**. Lately exploring applied AI: RAG pipelines and agentic systems built to behave predictably in production.
 
 ## Tech Stack
 
@@ -101,17 +102,20 @@ Software engineer with **4+ years** building full-stack products: React/Next.js 
 
 ## Experience
 
-**Software Engineer** · Tricon Infotech
-<sub>Bangalore, India &nbsp;·&nbsp; Present</sub>
+**Software Developer** · Tricon Infotech
+<sub>Dec 2025 – Aug 2026</sub>
 
-Owning full-stack product surfaces end-to-end: React/Next.js frontends, Python/Node.js services, and the AWS/GCP infrastructure they run on.
+Designed a report-generation framework (PPTX, PDF, RTF) with 10+ reusable services, cutting development effort 30%.
 
-<!--
-TODO before publishing: add the start year above and real, measurable results, for example:
-- Shipped <what> that moved <metric> by <number>
-- Improved <reliability or quality metric> from <x> to <y>
-- Led or mentored <team / migration / review process>
--->
+**Software Developer II** · Finbox
+<sub>May 2025 – Nov 2025</sub>
+
+Built Python middleware for dynamic lender onboarding, with custom authentication, request validation and error handling for external lender APIs.
+
+**Software Developer** · New Engen
+<sub>Oct 2022 – Apr 2025</sub>
+
+Built a microservices CRM platform, migrated core infrastructure from MySQL to Firestore (query latency down 30%), and designed a real-time budget-pacing system with sub-100ms decisions.
 
 ## Featured Projects
 
@@ -196,5 +200,5 @@ Copy one <td> above, set the label to APPLIED AI · <TOPIC>, and describe what i
 
 ## Connect
 
-Open to conversations about engineering, product, and applied AI.
-Find me on [Portfolio](https://bipashadev.netlify.app) · [LinkedIn](https://linkedin.com/in/bipashabhatt) · [GitHub](https://github.com/mahi0601).
+Open to senior backend and AI engineering roles. The fastest read is my [60-second brief](https://bipasha.dev/hire).
+Find me on [Portfolio](https://bipasha.dev) · [LinkedIn](https://linkedin.com/in/bipashabhatt) · [GitHub](https://github.com/mahi0601).
